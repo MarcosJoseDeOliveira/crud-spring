@@ -1,0 +1,4 @@
+com/marcosjose/repository/CourseRepository.class
+com/marcosjose/controller/CourseController.class
+com/marcosjose/CrudSpringApplication.class
+com/marcosjose/model/Course.class
